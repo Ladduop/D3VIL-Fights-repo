@@ -20,7 +20,7 @@ A simple Telegram userbot based on Telethon .
 ## How to deploy D3VILuserbot
 ### Heroku Deploy
   - [Source Code](https://github.com/Ladduop/D3VIL-Fights-repo)
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3VIL-Fights-repo%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FD3VIL-Fights-repo%2FHEROKU)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLadduop%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FLadduop%2FHEROKU)
 
 
 ## Inspiration
