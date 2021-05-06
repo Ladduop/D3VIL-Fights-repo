@@ -19,9 +19,9 @@ jobs:
 
         with:
 
-          find: "Catuserbot"
+          find: "Ultra X"
 
-          replace: "Ladduuserbot"
+          replace: "D3VIL BOT"
 
       - name: Create Pull Request
 
