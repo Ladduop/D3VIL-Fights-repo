@@ -35,7 +35,9 @@ A simple Telegram userbot based on Telethon .
 Your Telegram account may get banned.   
 D3VILuserbot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
+and group management with some helpfull commands.THIS BOT IS MADE WITH THE HELP OF CAT BOT
+SO SPECIAL THANKS TO THEM..
+
 
 If  you ended up spamming groups, getting reported left and right, 
 and you ended up in being fight with Telegram 
